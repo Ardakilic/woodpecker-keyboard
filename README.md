@@ -3,7 +3,9 @@
 
 The fork is done in a way that a wireless controller such as [nice!nano](https://nicekeyboards.com/nice-nano/) or clones could be utilized, and OLED module, Pimoroni Trackball or Cirque Trackpad could be applied over to the blank area.
 
-![Preview](https://i.imgur.com/HB0lnEA.jpeg)
+![Preview0](https://i.imgur.com/R7WR0xK.jpeg)
+
+![Preview1](https://i.imgur.com/HB0lnEA.jpeg)
 
 All work is done by [Özkan Çelik](https://github.com/ozkan), he made this due to my request.
 
